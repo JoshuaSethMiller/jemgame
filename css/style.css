@@ -1,0 +1,27 @@
+.crystalImage {
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+.num {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  background: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body {
+  background: gray;
+}
+#number {
+  font-size: 80px;
+}
+#yourNumber {
+  font-size: 80px;
+}
+#crystals {
+  width: 200px;
+  float: right;
+}
